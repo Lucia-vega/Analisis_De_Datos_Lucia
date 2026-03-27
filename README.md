@@ -5,4 +5,6 @@
 4. Leyendo archivos de  Base de Datos
 5. Lento archivos json y Xml
 Analisis Exploratorio de Datos 
-1. Series
+1. Analisis exploratorio Series
+2. Analisis exploratorio DataFrame
+3. Index,Columns,Values
