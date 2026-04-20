@@ -14,6 +14,12 @@ Analisis Exploratorio de Datos
     * df.shape : Indica el tamaño del Data Frame
    * [df|series].info()
     * [df|series].describe()
-    *  <span style = "color: plum">  5. df.nlargest (n, columns) | df.nsmallest(n, columns) </span>
+    *  <span style = "color: plum">   df.nlargest (n, columns) | df.nsmallest(n, columns) </span>
+    * T: Traspuesta de la tabla
+    * <span style = "color: plum">  5. df.idemax (n) | df.idemix(n) </span>
+      * <span style= "color: Plum">  6. df.isnull() | df.isna() </span>
+      * #  <span style = "color: plum"> 7. series.unique()| df[Series].nunqui() |df[Series].value_counts() </span>
+      
+
     
     
