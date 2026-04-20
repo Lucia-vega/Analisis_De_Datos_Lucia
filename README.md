@@ -9,7 +9,11 @@ Analisis Exploratorio de Datos
 2. Analisis exploratorio DataFrame
 3. Index,Columns,Values
 4. Métodos y Propiedades
-    *# **<span style="color:skyblue ">Métodos Y Propiedades</span>**,  df[series].sample()
+    *[df|series].head(), [df|series].tail() 
+   * [df|series].sample: Observaciones aleatorias
     * df.shape : Indica el tamaño del Data Frame
-    * [df|series
+   * [df|series].info()
+    * [df|series].describe()
+    *  <span style = "color: plum">  5. df.nlargest (n, columns) | df.nsmallest(n, columns) </span>
+    
     
