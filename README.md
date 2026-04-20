@@ -8,3 +8,7 @@ Analisis Exploratorio de Datos
 1. Analisis exploratorio Series
 2. Analisis exploratorio DataFrame
 3. Index,Columns,Values
+4. Métodos y Propiedades
+    * df[series].head(n),  df[series].tai()l,  df[series].sample()
+    * 
+    
